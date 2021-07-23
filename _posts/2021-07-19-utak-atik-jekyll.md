@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Utak-atik Jekyll"
 date: 2021-07-23 15:10:0 +0700
 toc : true
