@@ -3,14 +3,8 @@ layout: post
 title: "Utak-atik Jekyll"
 date: 2021-07-23 15:10:0 +0700
 toc : true
-categories:
-  - blog
-tags:
-  - Jekyll
-  - update
-  - Belajar
+categories: Jekyll learn
 ---
-# Jekyll
 Sekarang sedang coba memantapkan pakai GituHub dan Jekyll. Alasannya, **Gratis** hahaha. Selama ini pakai [Wordpress](https://wordpress.org) seudah cukup puas, tapi seperti diposting sebelumnya, perlu tempat hosting sendiri yang support __LAMP__ (Linux, Apache, Mysql, PHP).
 Nah, pakai yang ini, ya belajar ngetik lagi. Agak susah, report, mau tambah gambar di GitHub juga gak segampang wordpress, selain itu karena domain dihandle oleh [CloudFlare Pages](https://pages.cloudflare.com) jadi butuh waktu untuk langsung update (sekitar 2-3 menit). 
 Kenapa pakai ini? Di GitHub banyak resource mengenai *Machine Learning*, *Python* dan sebagai generasi pake FTP sepertinya harus belajar juga pakai Git. Sekarang lagi belajar pakai **Python** (hahaha cupu ya.. ) dan juga belajar *Machine Learning*, jadi mesti main-main di Github lah. 
